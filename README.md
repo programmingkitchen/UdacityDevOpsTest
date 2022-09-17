@@ -3,12 +3,10 @@
 ## Udacity Exercise 
 
 This repo was used for 
-AGILE DEVELOPMENT WITH AZURE >
 
 
-Continuous Integration > 
-
-
+AGILE DEVELOPMENT WITH AZURE > /
+Continuous Integration > /
 Lesson 13
 
 
